@@ -1,8 +1,11 @@
 <?php
 
 class miclase{
-    $edad;
+    $edad = 0;
     $nacimiento;
-}
 
+    function MedirEdad(){
+    return true;
+    }
+}
 ?>
